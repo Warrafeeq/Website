@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project is a modern, responsive React + Vite website for the Rafedge academic lab. Follow best practices for accessibility, SEO, and maintainability. Scaffold all mandatory sections as individual pages/components: Home, About Us, Members, Research & Projects, Publications, Opportunities, News & Events, Resources, Contact, Gallery, Alumni. Use Tailwind CSS for styling and ensure a persistent navbar with dropdowns.
