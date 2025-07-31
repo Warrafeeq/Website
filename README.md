@@ -13,6 +13,14 @@ A modern, responsive website for Rafedge Lab, showcasing research, people, and o
 1. Install dependencies: `npm install`
 2. Start development server: `npm run dev`
 
+## GitHub Pages Deployment
+
+This website is configured for automatic deployment to GitHub Pages:
+
+1. Push to `main` branch triggers automatic deployment
+2. Manual deployment: `npm run deploy`
+3. Live site: https://warrafeeq.github.io/Website
+
 ## Project Structure
 
 - `/src/pages`: Main content sections
