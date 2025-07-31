@@ -19,7 +19,7 @@ This website is configured for automatic deployment to GitHub Pages:
 
 1. Push to `main` branch triggers automatic deployment
 2. Manual deployment: `npm run deploy`
-3. Live site: https://warrafeeq.github.io/Website
+3. Live site: https://rafedgelab.github.io
 
 ## Project Structure
 
